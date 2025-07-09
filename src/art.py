@@ -4,7 +4,7 @@ from termcolor import colored
 def print_banner() -> None:
     """
     Prints the introductory ASCII Art Banner.
-
+ 
     Returns: 
         None
     """ 
