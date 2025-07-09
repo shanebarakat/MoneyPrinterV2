@@ -9,4 +9,4 @@ def print_banner() -> None:
         None
     """ 
     with open(f"{ROOT_DIR}/assets/banner.txt", "r") as file:
-        print(colored(file.read(), "green"))
+        print(colored(file.read(), "green")) 
