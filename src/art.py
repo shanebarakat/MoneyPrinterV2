@@ -5,7 +5,7 @@ def print_banner() -> None:
     """
     Prints the introductory ASCII Art Banner.
 
-    Returns:
+    Returns: 
         None
     """
     with open(f"{ROOT_DIR}/assets/banner.txt", "r") as file:
